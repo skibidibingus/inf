@@ -4192,6 +4192,6 @@ end
             _, cfg.labels.uid = self:label({name = "User Id: ??"})
 
             return self
-        end 
-    -- 
+        return library 
+    -- end
 -- 
